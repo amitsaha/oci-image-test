@@ -4,7 +4,7 @@
     "architecture": "amd64",
     "os": "linux",
     "config": {
-        "User": "alice",
+        "User": "1000:1000",
         "Memory": 2048,
         "MemorySwap": 4096,
         "CpuShares": 8,
